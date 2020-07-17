@@ -15,3 +15,19 @@ Manipulation of images and using basic arithmetic and intermediate functions in 
     </ul> 
   </li> 
 </ul>
+
+## Open Cv4 -2
+<ul> 
+  <li>Dilation and Erosion</li> 
+  <li>Edge Detection Algorithms</li> 
+  <li>Perspective Transforms</li> 
+  <li><b>Project: learn to access your webcam and apply transformations</b></li>
+</ul>
+
+## Open Cv4 -3
+<ul> 
+  <li>Finding and sorting contours by area</li> 
+  <li>Contour Approximations & Convex Hull</li> 
+  <li>Matching shapes in an image</li> 
+  <li><b>Project: Identify and label shapes in an image</b></li>
+</ul>
