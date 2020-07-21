@@ -31,3 +31,11 @@ Manipulation of images and using basic arithmetic and intermediate functions in 
   <li>Matching shapes in an image</li> 
   <li><b>Project: Identify and label shapes in an image</b></li>
 </ul>
+
+
+## Open Cv4 -4
+<ul> 
+  <li>Line Detection</li> 
+  <li>Circle Detection</li> 
+  <li>Blob Detection</li> 
+</ul>
