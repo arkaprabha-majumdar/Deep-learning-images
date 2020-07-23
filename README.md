@@ -51,5 +51,5 @@ Manipulation of images and using basic arithmetic and intermediate functions in 
   <li>HOGs</li> 
 </ul>
 
-<b>Project: learn to access your webcam and apply transformations</b>
+<b>Project: lApply face and eye detection to any video or webcam</b>
 
