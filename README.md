@@ -51,5 +51,5 @@ Manipulation of images and using basic arithmetic and intermediate functions in 
   <li>HOGs</li> 
 </ul>
 
-<b>Project: lApply face and eye detection to any video or webcam</b>
+<b>Project: Apply face and eye detection to any video or webcam</b>
 
