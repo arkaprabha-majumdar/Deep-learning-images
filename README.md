@@ -39,3 +39,17 @@ Manipulation of images and using basic arithmetic and intermediate functions in 
   <li>Circle Detection</li> 
   <li>Blob Detection</li> 
 </ul>
+
+## Open Cv4 -5
+<ul> 
+  <li>Pattern matches</li> 
+  <li>Corner Detection</li> 
+    <ul> 
+      <li>Harris</li> 
+      <li>GFTT</li> 
+    </ul> 
+  <li>HOGs</li> 
+</ul>
+
+<b>Project: learn to access your webcam and apply transformations</b>
+
