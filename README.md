@@ -1,4 +1,4 @@
-# Deep-learning-1 
+# Deep-learning
 Manipulation of images and using basic arithmetic and intermediate functions in OpenCV. 
 
 ## Open Cv4 -1 
@@ -53,3 +53,23 @@ Manipulation of images and using basic arithmetic and intermediate functions in 
 
 <b>Project: Apply face and eye detection to any video or webcam</b>
 
+
+## CNN -1
+<ul> 
+  <li>Coding ONE HIDDEN LAYER NEURAL NETWORK - forward and backpropagation</li> 
+  <li>Neural Network design - following the course by SentDex on YouTube (ongoing)</li> 
+  <li>Mathematical formulations of a Neural Network</li> 
+</ul>
+
+## CNN -2
+<ul> 
+  <li>Initialization and Basic Structure of a CNN</li> 
+  <li>Handwritten Digit Analysis of MNIST dataset</li> 
+  <li>Visualizations - Saliency Map of 10 epoch CNN</li>
+  <li>Visualizations - Layer cross section view of features captured</li>
+  <li>Filter CONV layers of a CNN</li> 
+  <li>Heatmap Visualizations of CNN layers</li> 
+  <li>Data Augmentation</li>
+</ul>
+
+<b> Project : Cats Vs Dogs Classifier </b>
