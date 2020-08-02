@@ -73,3 +73,9 @@ Manipulation of images and using basic arithmetic and intermediate functions in 
 </ul>
 
 <b> Project : Cats Vs Dogs Classifier </b>
+
+## CNN -3
+<ul> 
+  <li>AlexNet for CIFAR10</li> 
+  <li>LeNet for MNIST fashion data</li> 
+</ul>
