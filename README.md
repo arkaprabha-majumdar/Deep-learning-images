@@ -77,5 +77,5 @@ Manipulation of images and using basic arithmetic and intermediate functions in 
 ## CNN -3
 <ul> 
   <li>AlexNet for CIFAR10</li> 
-  <li>LeNet for MNIST fashion data</li> 
+  <li>LeNet for MNIST data - accuracy 99.98 %</li> 
 </ul>
